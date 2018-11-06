@@ -1,19 +1,23 @@
 {
-  "name"       : "react-native-rapid-api",
-  "version"    : "1.0.0",
+  "name": "react-native-rapid-api",
+  "version": "1.0.1",
   "description": "Use Rapid API with React Native",
-  "main"       : "app.js",
-  "scripts"    : {
+  "main": "app.js",
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url" : "git+https://github.com/Cactice/react-native-rapid-api.git"
+    "url": "git+https://github.com/Cactice/react-native-rapid-api.git"
   },
-  "keywords": ["React Native","RapidAPI","Rapid API"],
-  "author"  : "Cactice <cacticeNPM@gmail.com> (http://cactice.com)",
-  "license" : "ISC",
-  "bugs"    : {
+  "keywords": [
+    "React Native",
+    "RapidAPI",
+    "Rapid API"
+  ],
+  "author": "Cactice <cacticeNPM@gmail.com> (http://cactice.com)",
+  "license": "ISC",
+  "bugs": {
     "url": "https://github.com/Cactice/react-native-rapid-api/issues"
   },
   "homepage": "https://github.com/Cactice/react-native-rapid-api#readme"
