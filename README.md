@@ -15,7 +15,7 @@ npm install react-native-rapid-api --save
 
 In your code, add the following code to import the RapidAPI SDK:
 ```
-import RapidAPI from 'RapidAPI'
+import RapidAPI from 'react-native-rapid-api'
 const rapid = new RapidAPI('PROJECT_NAME', 'API_KEY')
 ```
 
