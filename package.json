@@ -1,6 +1,6 @@
 {
   "name": "react-native-rapid-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Use Rapid API with React Native",
   "main": "app.js",
   "scripts": {
